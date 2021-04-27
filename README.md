@@ -1,1 +1,1 @@
-# Python-Weather-Forcast-Application using Tkinter in Python by calling OpenWeatherMap API
+# Python-Weather-Forcast-Application using Tkinter by calling OpenWeatherMap API
