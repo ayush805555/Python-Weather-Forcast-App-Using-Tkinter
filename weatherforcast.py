@@ -56,7 +56,7 @@ def city_name():
 	# 									  --:API Call:--
 
 	api_request = requests.get("https://api.openweathermap.org/data/2.5/weather?q="
-							+ city_entry.get() + "&units=metric&appid=b03ddcf7e0742269de8c64dffb1280e9")
+							+ city_entry.get() + "&units=metric&appid=<put_your_own_api_key_here")
 	api = json.loads(api_request.content)
 	# 									--:Temperatures:--
 
